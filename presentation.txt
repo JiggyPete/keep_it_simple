@@ -1,0 +1,63 @@
+Keep It Simple:
+---------------
+
+Trigrams Kata: Tom Swift
+http://codekata.pragprog.com/2007/01/kata_fourteen_t.html
+Recruitment: filtering tool
+
+Values: COMMUNICATION, FEEDBACK, SIMPLICITY, COURAGE, FAILURE, CONTINUOUS IMPROVEMENT
+
+Hiring: filtering tool: reasonably complex problem, solve with what you deem your production quality code.
+  submit code for majority of cases. 
+  pairing in person
+  Alans code run through
+
+  But this talk was about 'Keep It Simple' - Simple version - Peters code walkthrough
+
+
+Hiring:
+Context:
+  Is there mention of TDD/BDD on the CV or on the GitHub account?
+  if so have potential hires spend a couple of hours on a coding excersize. 
+
+  Do any of you have your code with you and want to have an interview - NOW?
+
+  take these things in context of the cv
+    Agile coach of 7 years manages a test team and provides agile & technical direction - but makes never refers to TDD?
+
+    Newbie not having done tdd produces great code?
+
+What is my success criteria for the applicant?
+  tests
+  tested the random aspect of the problem
+
+What I learned about the current state of development:
+I've seen 50+ submissions. 
+  3 I would hire on the spot.
+  4/5 - lets have an interview to find out more.
+  the rest - ....not so much
+
+What have I learned about Alan?
+  Keen to learn
+  Had opinions and questions, discussion...
+  knew his ruby
+  was keen to test first
+  
+
+What have I learned about this recruitment tool / process?
+  Code submissions are great - but that leaves a huge hole in the process 'People'!
+  pairing brings the 'People' aspect back into focus.
+  code submissions were too easy to laugh at, and there was no way of asking 'why did you do that?'
+
+Initiative: github: download Doug Bradburys solution.
+
+
+What Alan learned::::::::::::::::::
+
+
+Conclusions: 
+  Recruitment Wise:
+    Get folk in, work with them! If we value people over process....we must value the means by which they arrive at their destination. Therefore we must place value in how they get to the solution, rather than just the solution arifacts of test & source code.
+
+  Code wise:
+    Write a test - don't think about it any further than that. Let the system evolve when it & as it tells you, not as you tell it to.
